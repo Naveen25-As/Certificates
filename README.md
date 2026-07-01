@@ -25,6 +25,6 @@ Year: 2025–2026.
 - Participation Certificate
 - Workshop: Build AI Automations That Work For You
 - Issued: 7 June 2026
-- ![AI Automation Workshop Certificate]()
+- ![AI Automation Workshop Certificate](Next-wave-cerificate.png)
 
 
