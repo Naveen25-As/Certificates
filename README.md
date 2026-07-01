@@ -18,7 +18,7 @@ Year: 2025–2026.
 - Course Completion Certificate
 - Skills: Git, GitHub, Version Control
 - Issued: 1 July 2026
-- ![GitHub Course Certificate](Screenshot 2026-07-01 190832.png)
+- ![GitHub Course Certificate](prepinsta-certificate.png)
 
 ## 4. AI Automation Workshop – NxtWave
 - Participation Certificate
