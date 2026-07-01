@@ -13,13 +13,12 @@ Duration: 42 Hours.
 Tools: Figma.
 Year: 2025–2026.
 ![UIUX Certificate](UIUX_certificate.jpg.jpeg)
-# My Certificates
 
 ## 3. GitHub Course – PrepInsta
 - Course Completion Certificate
 - Skills: Git, GitHub, Version Control
 - Issued: 1 July 2026
-- ![GitHub Course Certificate]()
+- ![GitHub Course Certificate](certificate_GitHub_1718800.pdf)
 
 ## 4. AI Automation Workshop – NxtWave
 - Participation Certificate
